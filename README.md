@@ -22,9 +22,10 @@ Millorar el codi anterior comprovant la informació necesaria alhora de crear el
 ### FASE 3
 Modifica el projecte anterior afegint els mètodes necessaris a Bike, de manera que es pugui afegir rodes davanteres i traseres.  
 
-Modificar el Main anterior, afegint la opció de Bike o Car:
-0) Preguntar a l’usuari si vol crear un cotxe o una moto.
-1) Demanar a l’usuari la matrícula, la marca i el seu color.
-2) Crear el vehícle amb les dades anteriors.
-3) Afegir-li les rodes traseres corresponents, demanant a l’usuari la marca i el diametre.
-4) Afegir-li les rodes davanteres corresponents, demanant a l’usuari la marca i el diametre.
+Modificar el Main anterior, afegint la opció de Bike o Car:  
+
+1) Preguntar a l’usuari si vol crear un cotxe o una moto.
+2) Demanar a l’usuari la matrícula, la marca i el seu color.
+3) Crear el vehícle amb les dades anteriors.
+4) Afegir-li les rodes traseres corresponents, demanant a l’usuari la marca i el diametre.
+5) Afegir-li les rodes davanteres corresponents, demanant a l’usuari la marca i el diametre.
