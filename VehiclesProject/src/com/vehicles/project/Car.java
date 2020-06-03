@@ -27,4 +27,13 @@ public class Car extends Vehicle {
 		this.wheels.add(rightWheel);
 	}
 
+	@Override
+	public String toString() {
+		return "Car{" +
+						"plate='" + plate + '\'' +
+						", brand='" + brand + '\'' +
+						", color='" + color + '\'' +
+						", wheels=" + wheels +
+						'}';
+	}
 }
